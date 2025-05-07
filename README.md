@@ -1,6 +1,3 @@
-Here's the complete Markdown file in a single code block ready for saving as `.md`:
-
-```markdown
 # Egor Aleksandrovich Gorbatov  
 **Senior Backend Developer**  
 `Kotlin | Java | Distributed Systems`  
@@ -107,31 +104,6 @@ public class SagaCoordinator {
 
 ---
 
-> "I architect systems that scale exponentially while keeping code maintainable."  
-> **Last Updated**: March 2025  
-
-<!-- PDF Conversion Hint -->
-<div style="page-break-after: always;"></div>
-```
-
-### How to Use:
-1. **Save as .md file**:  
-   ```bash
-   echo '# Egor Aleksandrovich Gorbatov...' > Egor_Gorbatov_CV.md
-   ```
-   *(Copy all content above and paste into your text editor)*
-
-2. **Convert to PDF**:  
-   ```bash
-   pandoc Egor_Gorbatov_CV.md -o CV.pdf \
-     --template=elegant \
-     --pdf-engine=wkhtmltopdf \
-     -V mainfont="DejaVu Sans"
-   ```
-
-3. **Features**:  
-   - Ready for GitHub/GitLab rendering  
-   - Compatible with VS Code Markdown preview  
-   - Includes print-optimized page breaks  
-
-Let me know if you'd like any adjustments to the layout!
+> "I architect systems that scale exponentially while keeping code maintainable."
+> ---
+> 
