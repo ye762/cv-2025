@@ -3,7 +3,7 @@
 
 **Location:** St. Petersburg, Russia  
 **Email:** ksanichalive@gmail.com  
-**Telegram:** @singularity024
+**Telegram:** https://t.me/noc2a
 
 ---
 
